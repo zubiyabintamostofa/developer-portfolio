@@ -8,7 +8,7 @@ h1{
 .color{
     color: chocolate;
 }
-section{
+.flexible-container{
 display: flex;
 margin-bottom: 150px;
 }
@@ -33,5 +33,12 @@ margin-bottom: 150px;
     background-image:url(images/dream-bg.png) ;
     background-repeat: no-repeat;
     background-position:right ;
+
 }
+.half-width h3{
+    color: cornflowerblue;
+}
+
+
+
 
