@@ -66,6 +66,10 @@ border-image-slice: 1;
 footer p{
     text-align: center;
 }
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
 
 
 
